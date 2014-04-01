@@ -1,6 +1,6 @@
 {
   "name": "selenium-utils",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Utility functions for selenium/webdriver",
   "main": "index.js",
   "scripts": {
