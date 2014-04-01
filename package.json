@@ -1,0 +1,19 @@
+{
+  "name": "selenium-utils",
+  "version": "0.1.0",
+  "description": "Utility functions for selenium/webdriver",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/goodybag/selenium-utils.git"
+  },
+  "keywords": [
+    "selenium",
+    "webdriver"
+  ],
+  "author": "John Fawcett",
+  "license": "BSD-2-Clause"
+}
